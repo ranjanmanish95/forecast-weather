@@ -1,4 +1,4 @@
-console.log('Javascript code is running');
+
 /*
 fetch('http://puzzle.mead.io/puzzle').then((response)=>
 {
